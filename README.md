@@ -2,6 +2,6 @@
 
 a simple lib to read and write "raw" ppm files
 
-##instructions
+## instructions
 mkdir build
 make
